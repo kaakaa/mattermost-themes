@@ -1,4 +1,5 @@
 import React, {useState, useEffect} from 'react';
+import {FormattedMessage} from 'react-intl';
 import styled from 'styled-components';
 
 import Carousel from './carousel';
@@ -97,10 +98,24 @@ function Body() {
                 contentLabel={'How To'}
             />
             <Section>
-                <SectionTitle>{'How to:'}</SectionTitle>
+                <SectionTitle>
+                    <FormattedMessage
+                        id='howto.title'
+                        defaultMessage='How to:'
+                    />
+                </SectionTitle>
                 <SectionList>
                     <li>
-                        <Span>{'Click on a thumbnail '}</Span>{'to copy it to your clipboard'}
+                        <Span>
+                            <FormattedMessage
+                                id='howto.description1.click'
+                                defaultMessage='Click on a thumbnail '
+                            />
+                        </Span>
+                        <FormattedMessage
+                            id='howto.description1'
+                            defaultMessage='to copy it to your clipboard'
+                        />
                     </li>
                     <li>{'Go to a Mattermost server of your choice'}</li>
                     <li>
