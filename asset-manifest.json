@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/mattermost-themes/static/js/main.773ba187.chunk.js",
+    "main.js.map": "/mattermost-themes/static/js/main.773ba187.chunk.js.map",
+    "runtime-main.js": "/mattermost-themes/static/js/runtime-main.b59d1f09.js",
+    "runtime-main.js.map": "/mattermost-themes/static/js/runtime-main.b59d1f09.js.map",
+    "static/css/2.bf9b5a30.chunk.css": "/mattermost-themes/static/css/2.bf9b5a30.chunk.css",
+    "static/js/2.06eb93e6.chunk.js": "/mattermost-themes/static/js/2.06eb93e6.chunk.js",
+    "static/js/2.06eb93e6.chunk.js.map": "/mattermost-themes/static/js/2.06eb93e6.chunk.js.map",
+    "index.html": "/mattermost-themes/index.html",
+    "precache-manifest.4d50ade696c7ab4beeb5c50fa7ff5ef7.js": "/mattermost-themes/precache-manifest.4d50ade696c7ab4beeb5c50fa7ff5ef7.js",
+    "service-worker.js": "/mattermost-themes/service-worker.js",
+    "static/css/2.bf9b5a30.chunk.css.map": "/mattermost-themes/static/css/2.bf9b5a30.chunk.css.map",
+    "static/media/slick-theme.css": "/mattermost-themes/static/media/slick.f97e3bbf.svg"
+  }
+}
